@@ -1,8 +1,10 @@
 # Verborgene Narrative
-Repository for my Master Thesis "Verborgene Narrative? Klappeffekte spätmittelalterlicher Flügelaltäre in Forschungsdiskurs und Ausstellungspraxis"
-(engl: "Hidden narratives? Folding effects of late medieval winged altars in research discourse and exhibitions")
+Repository für meine Masterarbeit mit dem Titel "Verborgene Narrative? Klappeffekte spätmittelalterlicher Flügelaltäre in Forschungsdiskurs und Ausstellungspraxis"
+(engl: Master Thesis about "Hidden narratives? Folding effects of late medieval winged altars in research discourse and exhibitions")
 
-Datenerhebung erfolgt mit folgendem Query-Inhalt: Das gesuchte Subjekt gehört zur Kategorie oder einer Unterkategorie von wd:Q1278452 = "Polyptychon" zusätzlich gefiltert über p:P571 = "Entstehungszeit" größer gleich 1400 und kleiner 1526 auf https://query.wikidata.org/. Link zum Query: https://w.wiki/EVzL:
+Datenerhebung erfolgt mit folgendem Query-Inhalt: 
+Die gesuchten Subjekte gehören zur Kategorie oder einer Unterkategorie von wd:Q1278452 = "Polyptychon" zusätzlich gefiltert über p:P571 = "Entstehungszeit" größer gleich 1400 und kleiner 1526. Die Abfrage wurde erstellt mit Hilfe des Query-Builders auf https://query.wikidata.org/. 
+Direkter Link zum Query: https://w.wiki/EVzL 
 
 SELECT DISTINCT ?item ?itemLabel WHERE {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
