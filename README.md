@@ -1,4 +1,4 @@
-# Verborgene Narrative
+# work in progress ... Verborgene Narrative
 Repository für meine Masterarbeit in Kunstwissenschaft mit dem Titel "Verborgene Narrative? Klappeffekte spätmittelalterlicher Flügelaltäre in Forschungsdiskurs und Ausstellungspraxis"
 (engl: Master Thesis about "Hidden narratives? Folding effects of late medieval winged altars in research discourse and exhibitions")
 
